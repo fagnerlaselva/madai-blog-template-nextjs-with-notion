@@ -1,0 +1,17 @@
+{
+  "alias": ["www.seusite.com.br"],
+  "build": {
+    "env": {
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": {
+        "Location": "https://seusite.com.br/$1"
+      }
+    }
+  ]
+}
+

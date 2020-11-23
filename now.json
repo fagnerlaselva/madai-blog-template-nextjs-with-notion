@@ -1,0 +1,36 @@
+{
+  "build": {
+    "env": {
+      "SENDGRID_API_KEY": "@sendgrid_api_key"
+    }
+  },
+  "headers": [
+    {
+      "source": "/blog",
+      "headers" : [
+        {
+          "key" : "X-Robots-Tag",
+          "value" : "noindex"
+        }
+      ]
+    },
+    {
+      "source": "/blog2",
+      "headers" : [
+        {
+          "key" : "X-Robots-Tag",
+          "value" : "noindex"
+        }
+      ]
+    },
+    {
+      "source": "/blog-details",
+      "headers" : [
+        {
+          "key" : "X-Robots-Tag",
+          "value" : "noindex"
+        }
+      ]
+    }
+  ]
+}
