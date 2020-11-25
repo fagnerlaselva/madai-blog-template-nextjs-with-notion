@@ -1628,6 +1628,30 @@ blockquote, .blockquote {
     margin-right: 6px;
 }
 
+.download-email {
+    border-top: 1px solid #eeeeee;
+    padding-top: 32px;
+}
+
+.notion-asset-wrapper div {
+    padding: 0 !important;
+}
+
+a.notion-link {
+    display: inline;
+    border-bottom: 1px solid #0277BD !important;
+}
+
+.notion-code.language-javascript code {
+    background-color: #efefef;
+    padding: 0 16px;
+    border-radius: 300px !important;
+}
+
+figure.notion-asset-wrapper {
+    max-width: 100%;
+}
+
 
 /*================================================
 Page Title Area CSS
