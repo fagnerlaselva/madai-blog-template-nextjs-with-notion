@@ -170,7 +170,7 @@ module.exports =
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/vitor/Repositories/Sharing/site/components/Shared/GoTop.js";
+var _jsxFileName = "C:\\Users\\fagne\\OneDrive\\Documentos\\GitHub\\madai-blog-template-nextjs-with-notion\\components\\Shared\\GoTop.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -626,7 +626,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_seo__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(next_seo__WEBPACK_IMPORTED_MODULE_10__);
 /* harmony import */ var _components_Shared_GoTop__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../components/Shared/GoTop */ "./components/Shared/GoTop.js");
 /* harmony import */ var _utils_Analytics__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../utils/Analytics */ "./utils/Analytics.js");
-var _jsxFileName = "/Users/vitor/Repositories/Sharing/site/pages/_app.js";
+var _jsxFileName = "C:\\Users\\fagne\\OneDrive\\Documentos\\GitHub\\madai-blog-template-nextjs-with-notion\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 

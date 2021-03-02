@@ -5,8 +5,8 @@ import fetch from 'node-fetch'
 const moment = require('moment')
 
 const API_ENDPOINT = 'https://www.notion.so/api/v3'
-const NOTION_TOKEN = ''
-const NOTION_BLOG_ID = ''
+const NOTION_TOKEN = '93d77d225b7d8253a736c4f691865357bdff051e01ebc0eb3e1da6ffa2413cdbe4570f9108737155b0bb55786969794ef99d24c8ef374f5bf9781f1247904e8bf430caa2ef7ba43903c4e7298b03'
+const NOTION_BLOG_ID = '60f9dd40dfa148bea4d71bd5f6c8104f'
 
 class BlogThreeGrid extends Component {
     constructor (props) {
